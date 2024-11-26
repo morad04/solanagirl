@@ -29,10 +29,7 @@ Get real time activity notifications for any wallet you add!
 
 You are currently tracking <b>${user?._count.userWallets || 0} / ${planWallets[plan]} wallets</b> ✨
 
-🆙 Upgrade for a <b>LIFETIME</b> plan to track up to <b>${MAX_WHALE_WALLETS}</b> wallets — one-time payment, no recurring fees! 🐾  
 
-⚠️ <b>Note for Free Users:</b>  
-To ensure smooth performance for everyone, free wallets may be cleaned up periodically. Consider upgrading to retain all your tracked wallets! 🚀
 `
 
     return messageText
