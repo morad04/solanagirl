@@ -13,7 +13,7 @@ import gradient from 'gradient-string'
 
 dotenv.config()
 
-const PORT = process.env.PORT || 3001
+const PORT = process.env.PORT || 1000
 
 class Main {
   private trackWallets: TrackWallets
